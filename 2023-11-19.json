@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Gonzalez",
+  "age": 62,
+  "address": {
+    "street": "Setu Drive",
+    "city": "Cenubim",
+    "state": "OK",
+    "zip": "02330"
+  },
+  "contact": {
+    "phone": "(416) 739-6308",
+    "servicePhone": "800415527"
+  },
+  "birthday": "1964-12-08T11:04:33.957Z",
+  "ip": "177.9.185.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo kocevuh rascaat tukimno naureza suajca tar hoza oduvgos ofiponuv wovjo ipobub. Ujiol iz vu jah kacuri mof soupogo ijta udwihe na fumih lolarfo gu ligabwi dohji kouvefuz rabu pulil. Tibguju gohe gercuv cit sogkajin riemu vuhomi vocico foiraje nuv giukdoh jev. Amvaaja oduhe girhek ulnuje voszo zaize caibo helkassi ige vaobmum jesgagi fimdus daphadic davogfih hupco. Udial rabdo apoukra za lihonvew farwowi zeazro sevnipbo owhi wit ta du mos hegdug benwallo.",
+    "bio": "Ko mobitme giavotit ohwoje awe lu rohjofuw ho luwzuvag gocuf ihilugope horhesuto difuzik bunjag ted. He alozuvoc ipmakmir zika wil zol negfaj jejvigfi pi co gefal did wow. Urluute fosuz molkijruf bawne vabih advoz jo uzu wuhga molevip tok firgatvif woupepi libe cufa riuvarav cinug. Erut pefo degum epufarac di mikwih wel jar udabazva tusatlu cav lohar imih izoeraguz atmovo."
+  },
+  "apiKey": "a1b7646e348db81c69ccf358eed978ee2669337f1ef04b4476459c81e3c5fcb2",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
