@@ -1,0 +1,26 @@
+{
+  "name": "Brian Gilbert",
+  "age": 50,
+  "address": {
+    "street": "Arge Loop",
+    "city": "Fadukij",
+    "state": "ID",
+    "zip": "63528"
+  },
+  "contact": {
+    "phone": "(867) 278-7584",
+    "servicePhone": "800968323"
+  },
+  "birthday": "2005-09-16T08:53:14.866Z",
+  "ip": "16.250.82.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Giaz harpol mizmaebu tasas vahzeto nozi uwni nereafo hobij ta wamfef gujge. We op ir hopfaf gatit giguki re za zumohugi leruveuju lip lutelekug te hohgo zurgi ipo. Noveteta de mijru koreko ozkahtob wib cu fajvufte zagjur fan wofawni ewiin.",
+    "bio": "Ficbuad bug livug juhe dejikeke eca az sowosem sulin henafe ga elo ez ikicidmo iv lapgec ruz. Jagi ta betcub tejelew gighe apopiwki amgohas es bu rap lecoppij ka raf noh honicle koafod. Ucsewoc hefijuv puin fohkev mut taj izdetaz se niculvec ek cene dozage se tic sokaruza mafdi nul dalusu. Iteho am awe ba zoz puti om juvi emo tac javdesir po tohi obha suupezez ikgobme. Turep fanlu epu akaforor biupimej elu mumawica golodfa ubu bomnikuh oja rezfuv ak afwipog. Suznebiz anhav po ozewuzut fuc ase gek bambebul sakujihe difdihdo viwoh keferzam abanivla uhmat gaj fun jam limvu. Taruf haarjuk saboij ukenege ajehahcu gut cib me waf le dupipo tavaf ruafa riaj."
+  },
+  "apiKey": "4461112ea2ac96346e9fef8ea9f47609f8a17851ec80825920847332c88a8765",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
