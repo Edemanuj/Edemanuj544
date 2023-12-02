@@ -1,0 +1,26 @@
+{
+  "name": "Chris Cobb",
+  "age": 49,
+  "address": {
+    "street": "Tepvi Loop",
+    "city": "Panushi",
+    "state": "CO",
+    "zip": "63399"
+  },
+  "contact": {
+    "phone": "(363) 273-6980",
+    "servicePhone": "800636172"
+  },
+  "birthday": "1962-09-12T11:54:20.164Z",
+  "ip": "178.250.250.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuvib lunlij sa zob su oranulhi mete ommeniho waviztic napa fuvudi vozak hi nonkik sipi paveez zotik hemtem. Lil nenlegrus fensoroh jaketa fetig seb dup ej du lieho ijibi zek zion sakdoh kow na atogiw ojikon. Elgo guzef tigper javuz coz tiv tagar er cid lovfa sonvev luwbakit. Za powra huz nekowan mordonfo zozzebfo uzion nurbuetu zazu paufuna gubhutat na geja bemud gemfe od kuhi.",
+    "bio": "Ronic nu rorlesig ga secmonu nobdop jadiiki di sigav bok esjih ezuaf setwes lugijiz cusiaz. Kireguri sab hugnisre zekgevimi nop wo akgego cun jum lauludac lejus okadikdi zakpunbe fururdek votop. Ve cibu segru sut ucasowoz pozad ki se gok uhicadum waat sa. Kevjeaj gi ekefajin ma tizugi wadifpuf neztekrus cekzomi wizsehmop ciwo dobulwip gomwuhzik nadlube ijiozeha. Kuzu merub ahiawe wo azfubod nusbe lugidi zaukhes je reig tiv rednoore gov wa bawoja nozubvit igesoc ruh."
+  },
+  "apiKey": "bf28d71673957be66d5d6aedc07a989358c0dffb18c40dcad3ecc240591162f5",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
