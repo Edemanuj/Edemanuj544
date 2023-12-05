@@ -1,0 +1,26 @@
+{
+  "name": "Chris Moss",
+  "age": 44,
+  "address": {
+    "street": "Bezuse Boulevard",
+    "city": "Mevalu",
+    "state": "HI",
+    "zip": "31918"
+  },
+  "contact": {
+    "phone": "(349) 491-7731",
+    "servicePhone": "800577216"
+  },
+  "birthday": "1994-11-15T06:35:58.839Z",
+  "ip": "133.242.93.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Kizi upge raphonar feedo cu gatud hek er bacgiz muson kuwnez zubdujwik kiju. Hujovaco ewovoh zabulvo kesuse kig jivnuj setupefi zozi berba viho ge ono ra fip cuva. Fekilwib obiedi cez aknedpok zolmogo wiaji zak diffo cogfiz pi dinva hab veb.",
+    "bio": "Mitmo dodfoj katijpa di agaulu com tildacod ja piravo moudwo poge til ehuviov hek. Ojururogi do he uwiefa inwe ahogir fuw vejijum emo hidadiad zo lahuki wa ginbe uratap ra dog hefo. Si pambupjoc fuzcipudu endi sib de ge toed topih vulsude iv po vumo."
+  },
+  "apiKey": "474f97a6b9346d52f2c17c342076ceb4ae20688cd71d1234e1bb75f604c60c77",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
