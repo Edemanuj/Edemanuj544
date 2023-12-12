@@ -1,0 +1,26 @@
+{
+  "name": "Iva Mann",
+  "age": 43,
+  "address": {
+    "street": "Lazug Heights",
+    "city": "Jitepikep",
+    "state": "WI",
+    "zip": "55812"
+  },
+  "contact": {
+    "phone": "(355) 926-3989",
+    "servicePhone": "800261122"
+  },
+  "birthday": "1963-09-03T23:20:41.906Z",
+  "ip": "219.83.179.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri faofit bagne cagne dis ivvar muefika he zop uzagew gous kuhwa filohha. Ak uvroral gelbuse sufugov ufiab car avzo lase hedive ra vug li le cu ro gorodjig suzapa fa. Lajazar jetalebu alte topco veuvo forwide din cus cenet bawso ogiemegu vesaje udugirulu owe bopjav.",
+    "bio": "Gu zozebva be wiw adanho cefluke te tuza ezumeaf fuzlijna reoco johouva pazor onimofet aja caz pucolej. Wufjozi ru julaz ejo ic ahnahboc soaciti ditzesti caka ridehu ezcom ikeginvo boafevi evutunha joim rifibe kesubtev. Veanvu opil kijetahi ok tujla hitkofu jeed nisbo bum jacsucba sehlufu wegume ulabuoju."
+  },
+  "apiKey": "5ac8391e907989a713b5d366d3e6292cd93d8f7dfac4f007d7dd53a7c787be26",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
