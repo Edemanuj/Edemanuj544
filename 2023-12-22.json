@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Wells",
+  "age": 19,
+  "address": {
+    "street": "Utodo Court",
+    "city": "Beguesu",
+    "state": "MN",
+    "zip": "83045"
+  },
+  "contact": {
+    "phone": "(212) 936-1465",
+    "servicePhone": "800914658"
+  },
+  "birthday": "1989-01-29T18:21:06.025Z",
+  "ip": "219.236.175.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Gowhuoli toplanra huc hihja cu apa guli fotetig rilufe eluham cowoho jocrivut. Ohzu ki vojku jilutaham zimge ka jimdo imuuciaho ra wokka nafjukvu ita gizebuz noetezac. Tu sowurfi feupige ba pen danzorifu heroz nujgaeg aco antud fih gujub cumba zioh pabidido.",
+    "bio": "Gujwaava maego asucekjab muwap umpabef za jocude kighom je nopa uladij en etzoze nahev mavumip adijobub dowzu. Mekunu vota joak tip naesnip po neetwug zalveb dis am zikoeza pef jeh. Vi nowih ci pekca zoszuwvaf ficho fujoih ago if atpiilu suvibeh jijdoj cu sahko muffuwsoj ciwepik kuf. Zepdu ju icohitkiz azide ovtih sogo guz aveje retvuvo awzutruv liavozi niw ap covizhu duf jotviced."
+  },
+  "apiKey": "b5fc0f2cc20de1bab009be1fa81de3cd6e0dcce7a0803645ec277873dd7b724b",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
