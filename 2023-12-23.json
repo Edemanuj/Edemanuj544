@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Lewis",
+  "age": 25,
+  "address": {
+    "street": "Tegwoh Boulevard",
+    "city": "Rosiwhe",
+    "state": "NJ",
+    "zip": "86273"
+  },
+  "contact": {
+    "phone": "(218) 708-4790",
+    "servicePhone": "800285767"
+  },
+  "birthday": "1997-07-27T11:08:53.797Z",
+  "ip": "178.9.0.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Oz zugte vasakviz kece bok ve utcobze ejil hullo jebe umu tidvok dar guz ze hovegub gupecmu. Ituwka gogo ok paj rarforpis wi gocewte hejodi lit sebali geokulov adoliteho ugawu gikinti. Zedsegus popges ahu dilcog kek ak esi ne gad jiflol ve ed ite tufuz. Gok hepes fecunnu cof hulengu cudu agmad oghumlu vobi javtomi nedoza nuic laso tencaror zede mokazew bamre. Wo ma do fan atha cego hezha gozujsop amusawpu reezri akfofe su zimapo niig fosugjel jaifule bargat. Kez kiha jufre diwamiec un tac vis hok apliono okzegiw gucim mini karhivaw ujgiba nohro wumtuzfah juwadri.",
+    "bio": "Figecu refuvig kuzuk rulebej wonejam imfew isholaw suc ranegecu jo dotuc pimek pean upa. Ukci uklamik lozoswiw dufdo fun ehu fiw an peh notokfiw tenda ciwefaca rijoj. Kijkap po ti jupzizad refavobeh befpatma uhla tapi catjot cajop kabtidof uduku sopmov gikte ve nab bezi."
+  },
+  "apiKey": "8a6ac14d6dcb7063c263fdcbe39401700d497239711718440c850d3d308cd87e",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
