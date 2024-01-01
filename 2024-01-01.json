@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Stephens",
+  "age": 18,
+  "address": {
+    "street": "Gahge Trail",
+    "city": "Vudosudu",
+    "state": "AL",
+    "zip": "31555"
+  },
+  "contact": {
+    "phone": "(264) 207-1902",
+    "servicePhone": "800572526"
+  },
+  "birthday": "1986-07-07T00:52:39.398Z",
+  "ip": "220.162.210.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Zodimeri gepmidum za nensiw mamzohpeg va as cuwodonik lala nazak go te. Lela re daw adpol damupi irji ostonog mi luselpuc telih la irehe. Biguke ze rijup guos babone kol ga has ziguz mostujzu la oc me oh uji doz.",
+    "bio": "Hepcu vufnan rabo hailig tezgebas ijasu be mih milusara kabo larru livzieja ceha zor. Gebedtar bawohka be oh vopdub femopmob jem cenusutiz wib merepiz imagikwut kavaw ne af dufset aneepu. Baosi hivaji durpa cetuk re atvas dasispu uhmeoge zazte gigo uve pumreb foz guder jakaf cor. Este ihu sekaw ulu begmum vegazo pihohpos wijewse sen sidzen gine susbi ho zaf bi fiuh ji."
+  },
+  "apiKey": "b904cbd2c2ab9f956383b8a9a16e52944065ecdb53663a473adbb2aa25a4a66e",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
