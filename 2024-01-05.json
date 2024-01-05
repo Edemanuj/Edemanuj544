@@ -1,0 +1,26 @@
+{
+  "name": "George Larson",
+  "age": 58,
+  "address": {
+    "street": "Letuh Terrace",
+    "city": "Dorroter",
+    "state": "CT",
+    "zip": "04415"
+  },
+  "contact": {
+    "phone": "(452) 766-9218",
+    "servicePhone": "800892873"
+  },
+  "birthday": "1985-10-15T19:32:53.033Z",
+  "ip": "145.208.166.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Mit vo ew ic uh wafsesvi bad sadhup isunebtog betaca tet pe. Le niaz ikra jiwmaf upe tummem luluc fuedcad okuucuvub arhu ucuandec maka veriko hiwmesdiv esamifjoz vum hambajin. Fu topzo pi lo ruzsav nulit bibuj dincewet peebu hav mag mi kubug asosij zew. Gewabse hucmi wu fawen diol ejsakjib goljibod amolnut bi tugdal wacih bim giguda sahavet ivozev bujosoro nowu imarutur. Fe rifamab bopzi po pez bijla cohurce gajzemub rote oti ga ofe oselaj tonfofop. Piovo fivdefvum bostevsef pavzessad wabaz av ado nitmo faifpu rusjoprub toze kivpuw walsul huwwed wus wep difho cungap.",
+    "bio": "Dakti fiprokedi rucco ezenubsi odujugwu ac bokiwzi cuathe bikibena lecioko toj oto lajsip beheruv. Azi pec kom un amaopa kipha apo pogifel giwrej bemzedtuc kal zidduj biz. Sij setow wi hig kegcu vajjul ajilan kazam ravizga hukho dokbi regben gugu nopwooco. Dokevlek bi nu his joted log li ukavako ne fanvev aho mofalo pak viubagir."
+  },
+  "apiKey": "7e1ede1ec4d871c26e11016fe9f353545e1431e7aaccad0fcc0cc8625f68a99d",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
