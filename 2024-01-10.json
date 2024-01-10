@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Maxwell",
+  "age": 22,
+  "address": {
+    "street": "Calwo Glen",
+    "city": "Niujeb",
+    "state": "AR",
+    "zip": "45509"
+  },
+  "contact": {
+    "phone": "(842) 901-5390",
+    "servicePhone": "800213323"
+  },
+  "birthday": "2001-08-14T16:13:39.142Z",
+  "ip": "233.77.84.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Fizib fivhig sugejul lapvuiro siv eku nokle wo litno opumagfu nohjuwlu zorho dazakip. Otgo ru vik jep tuzvem cim saus tos rowofija fenko eg arahowed havek. La go femeba ekumo vukuz coresel coj za awalalov ighume terakfen pounokal jovkatju pontap avanajken vowi ka.",
+    "bio": "Esofige pu varezer buwgitca femukag ukewikizu bag evusuj ameran mohugur dijarho ihuha cazjena ac unbe fu azi. Icpi sa kodcamvo logvihvu woku ni oki buwasig ijuvo bebuliku ukazegmav cuduzecu kadpimeb. Bu jan hen milelise iv kuz ila se lapger ododuopi setfoha oweguamu lot panlep ibmo. Wugid giz tuwij inwi dad rensi ekju mel he feg wudufvi mu."
+  },
+  "apiKey": "bfc4597ef048dc61772732e96d74c24c58ee83212f61d08b74cbdac66d2cef7a",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
