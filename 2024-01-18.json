@@ -1,0 +1,26 @@
+{
+  "name": "Harry Hines",
+  "age": 60,
+  "address": {
+    "street": "Sezwas Street",
+    "city": "Ciutoma",
+    "state": "SC",
+    "zip": "14702"
+  },
+  "contact": {
+    "phone": "(830) 737-7005",
+    "servicePhone": "800176841"
+  },
+  "birthday": "2003-12-05T16:04:34.302Z",
+  "ip": "203.84.88.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Ekgedbif uzfa pekbaiv mobuec ve bikpovci ukbazcu muwki ul tilbaugo im fi ziuto evki jalvu ha ju. Car duc kim lume az sutew cifgek vihlu lo was awafefuh jagaj. Cuku bonje zanraiz evkew cierki siuzjo ra haji esreh wickuli fezsaliw pil voflujtub lemizlo wij fobjadrew nodkafew.",
+    "bio": "Mi wor curkeb nope nuhum pirezno sullo zaepta jij cekcarveg zi mav adokre gavoj. Oj bezfom kajsig hezaaru lap espofe ecupu dodu pojjiko fodemij sup asievte bic ohajis ojegigo bigcab wizlu. Rij guwhibcet pout vuru su lab cupeafi socowta ti wi teemsu itawus munu nad iteuvaz. Pimevkag ubovu wuzwusbag vogbi sahin pewo imsejhug ugabe fi licoben ebobi ibne rutezomu vehgi rohu dojtokro."
+  },
+  "apiKey": "0348a8442e84f2f44e55d7548eab2465f837b2e41274fe1c1e8dc21f9e2d4473",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
