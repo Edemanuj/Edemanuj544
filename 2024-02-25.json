@@ -1,0 +1,26 @@
+{
+  "name": "Ina Marsh",
+  "age": 61,
+  "address": {
+    "street": "Pedu Path",
+    "city": "Culliate",
+    "state": "VA",
+    "zip": "27669"
+  },
+  "contact": {
+    "phone": "(709) 562-4213",
+    "servicePhone": "800677388"
+  },
+  "birthday": "1984-05-08T21:12:03.036Z",
+  "ip": "145.72.44.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Puhez venvor mi wazra vopu ropa wogu rag pu ro run pavu. Om videvhi vefe uwi jikogo rovohis sehiki vu ma koj ne din nauzo conenjo gevkugpa sumvasuj hip. Tavfujjuw fa cucipmu veica co tobvel berasoim nutcebti apbozzo zewjil sazhudubi ke celeba. Fut panca caganwag gudbunmap ofifade ninot nazuwic lavotaha ciplas fezmodeb anosus duwliahe fazidi zeke. Ted hohlas uvce sizridna be fil wat duz gawsali hosoremi iw ketawmar gipos vus budog.",
+    "bio": "Somo zu rel zefevo dogedise odlol nemba at uhojo ihowe dafo wepucaz azu vufha fawhe fibo vazrotop. Kihwe upa bi sod zedur nodnoaji donob sukvuvke pujigvon lehsegu wa on nod ju idmih ukoutu. Notfefca az ewiz zul gudbozco fipuj juglaw ja uvko vohri fo zajob epusa gu woehe law kacbigsus veune. Vidtum sean nubufe zaemiwu woha dojreed po decuvwa teopiufi iwwo leije dev gi feah rig fidugna usecu. Ciheut ore gugotzo ivu hapmitlu ezna tehom awabat no zigwo oni po zeodeam."
+  },
+  "apiKey": "3dd8fe030a91be4ce6aeb7efb7a5a385d46da31e344c58efbcc2efa5fc732c45",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
