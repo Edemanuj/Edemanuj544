@@ -1,0 +1,26 @@
+{
+  "name": "Philip Clark",
+  "age": 59,
+  "address": {
+    "street": "Bute Court",
+    "city": "Nudjouv",
+    "state": "WI",
+    "zip": "49356"
+  },
+  "contact": {
+    "phone": "(871) 622-2336",
+    "servicePhone": "800217558"
+  },
+  "birthday": "1992-05-02T11:13:40.864Z",
+  "ip": "230.42.78.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Geveblu zat li nevohiwi loweir emo dekwol nojigcaz uvomehur cigwat duvlifu ti. Rul ho pos lagzolci cudufojis kolmanor mutagut kar caehe gomjolu buttejwaw ru wat. Nohiv ka bonop degek faur rimhobu iz fizlo vuokdo zag puzjus rimmok bapu. Sev ra suba ci il cataz abubaj mof ke gehna selpemoc umhop peak.",
+    "bio": "Cib wa pur da nebari ofcuabo wed fezuzlet heme ragaja gir sutajage zel gawaru owilugu. Wocdewoz bos keira siweg guk hutezikow obo hor az otwodad zafnosi tih ubupuz riv ukesiap jikivcew fe. Hi ape izledug rupredtaj ih rawew asivevo kijgoubo duvro mofgiswe ugvon cidho."
+  },
+  "apiKey": "e0eea8dd06ab9d00c223238d8ba80e8d83cb932bc90dbe394e2a963933d8908e",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
