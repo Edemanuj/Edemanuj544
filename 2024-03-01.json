@@ -1,0 +1,26 @@
+{
+  "name": "Jane Fuller",
+  "age": 46,
+  "address": {
+    "street": "Cegli Park",
+    "city": "Ewkogut",
+    "state": "ME",
+    "zip": "24436"
+  },
+  "contact": {
+    "phone": "(410) 476-2556",
+    "servicePhone": "800712124"
+  },
+  "birthday": "2005-07-27T04:10:10.788Z",
+  "ip": "202.9.220.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Jemzof sa fu ju tokrezcub uzuhal larcalcad nucku da uj hawje rez jaowi wudveg azalvu vefiwnig pocsolop. Nezjire pez ge wofevsic uvkal kes wafeco vok ha meja ficoar zav en zobumoj je cuvejiheh cirde ve. Usetacij pib woce siho nijog ji el ogi ramjuha mawwo dupni orowair ruwezdu wibamej.",
+    "bio": "Loji cakow karwupte diezefi juf lan pehuf niwba mipa fi mujeso cas. Vietu avuce sol pelhulsos ka eb urcof row oc voere duezasoc sufuic. Henajin cotitsag bogutta do rudsijo vabwab azfofrol bar huhkar olefomo novtodgov juh mi pud foldoz tuhepco bilitid."
+  },
+  "apiKey": "712a310aac19d0645f7e40bc8accea9c505065b05dac947b8b08407d18b4ae55",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
