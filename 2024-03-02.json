@@ -1,0 +1,26 @@
+{
+  "name": "Elva Fields",
+  "age": 39,
+  "address": {
+    "street": "Uloit Junction",
+    "city": "Zodseke",
+    "state": "NC",
+    "zip": "46568"
+  },
+  "contact": {
+    "phone": "(682) 933-1464",
+    "servicePhone": "800298123"
+  },
+  "birthday": "1983-05-25T18:36:00.277Z",
+  "ip": "198.171.235.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Wobiha subvetna dadcisil ogokki iffazzi ozoguhac bob sakepo kokdi ujutowdoh afo ni liprejag onedigtu cus gomdih. Povcanpon vigtevvev elobo wuor rutebip bimzo subbotum holizrun rikasza duw vo ke kemadibi gaejour oni posrigku. Fesuru hojvuzok op buh balvi lo ilukiib zuiravik rizlod giwho zodeblul bawhej dad juntu etamub fup.",
+    "bio": "Co gosil od nail penopuz rev evap rej imeezokin ifiviejo lalsetpu af iwuum juozaha ijole asu ikhukse. Mad siil he nekic bazuj lir va wop ne ratit fiptos iheza vean sibi vamo ceha regeb. Uba sumwedjic elahu osu ave tusbajok ritunle amce sahrase rufvubnic waoni on."
+  },
+  "apiKey": "59f253a5e429541aa2eb669588cd8d04247164874999d75d05403cae7f9bbb11",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
