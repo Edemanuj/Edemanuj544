@@ -1,0 +1,26 @@
+{
+  "name": "Ola Hamilton",
+  "age": 19,
+  "address": {
+    "street": "Misgo Court",
+    "city": "Tananud",
+    "state": "WY",
+    "zip": "92965"
+  },
+  "contact": {
+    "phone": "(282) 689-9805",
+    "servicePhone": "800934528"
+  },
+  "birthday": "1987-04-08T06:55:51.824Z",
+  "ip": "98.114.21.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Dofpuh sineez kelazef suwora burrabdit daceza edoseh sa de awo ge ijimaar pancer ocipocaw doteb. Wivhole cusa tij omda we ducdorkaj odiabafaw cah luwmeguj lusa wic uzkarot powhe la dab sabfojlib cambos. Co du musuho aj sizib cifili wulraf wolvawde tutonu zub wedpi vowekruv wahdanva sonisono pacsoil vi mal kat.",
+    "bio": "Ce anudo goberi fojif sar kemet efofam dus evcokjun hufu wus bofeob zerat zazaf pog. Faeb hinbija pa silwibu geffuec edhe uracir sindafih kiznaar lu norem mokrakobe ec sabope wicinve. Nuobu me dufpakiri idibsec lihor aludo wi doswe iku lul judavo zelle bojva wejzih vuupu. Ewa mel fobogaz lezu kelagidid ji bago giopu seb uhasojga vekudrem us kedijri nuzu aghow. Me peimevej wibepmor mutidga simwejet gianahi ampegej lijis les sugjoefa we tusij jevlazo wiod tuakuj or. Cewo kabat ubo camaw loiniape ogedo do ul fozev ev jokizgov sujafe su si hatogpa gup kuhge."
+  },
+  "apiKey": "9ac91d28357765cb2824183574d7a48a4f1a065cba503d40f737af83bc6fda74",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
