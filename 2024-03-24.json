@@ -1,0 +1,26 @@
+{
+  "name": "Mike Moran",
+  "age": 40,
+  "address": {
+    "street": "Akokog Grove",
+    "city": "Vasgaeba",
+    "state": "FL",
+    "zip": "82515"
+  },
+  "contact": {
+    "phone": "(644) 883-6120",
+    "servicePhone": "800241881"
+  },
+  "birthday": "1971-07-13T01:25:59.434Z",
+  "ip": "117.149.29.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Ennum iselodud feg up kijod am zodfopmes je reiw cuskuv luwfup hesnud beg. Rouce jijametag rorkok muddudema juosene cewzum locludi wiv denfa erjog oneufewi buvpa. Fivugewu kerura epibu tu zu galoha cosev tojwo ijdo si pucfe su.",
+    "bio": "Rej torasiz iza bij sololul epomif domvasen et eksasca zitimi lar buzsogam dowa rik dizceb disez cekbut jannuhrak. Ovu resac wutleg so zikgiccaz wi nedwiwvo hitifez fisuco omiphip ceduar wi goithuw ti if piroen pehupni. Ikowoj vasvama vaba le hipateca van ojcaku muez fi havimru korer jufem bahow amele. Lidpuf hes zok taici re op ogfuk lalwuhin tubamevah hepfo jorpajac mucmev zo. Posa nila wo owcuna zabu ha wa ibkura po ruhenaw eskonak nozag jo."
+  },
+  "apiKey": "58d6513f6cda34861b2bcc5e4fc42e2e8386e6f6e28df2c6467d5c83902d999d",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
