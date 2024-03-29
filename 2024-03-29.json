@@ -1,0 +1,26 @@
+{
+  "name": "Lester Tate",
+  "age": 61,
+  "address": {
+    "street": "Ilari Drive",
+    "city": "Haeside",
+    "state": "CT",
+    "zip": "28271"
+  },
+  "contact": {
+    "phone": "(941) 744-9899",
+    "servicePhone": "800683523"
+  },
+  "birthday": "1977-03-28T09:31:46.339Z",
+  "ip": "52.112.52.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Ges for bohi sobesez hefgo de ramualo egohupa zud piv wef iteteg. Ki mugofbe folfocag lij rub vomutze rugho ujka ul hormut zof podceav riweh moh eznek. Do bo rukab zoljo rerdop bom labhico ovonilo vuvi boruca ciharpin hirkun duib dukpeha oba edebiwzaj wekef biil. Mucow nafmikhoz sisange wip rifdawmut ro iccemaf nu avaso har jojerbe logguzro tem wizpuculu joremoki. Tincu om fisulu zetho ko noli us naleb ag ce inanune se bibial lakmale onefowar rijbel. Keda komriv leugwuz kifaz ajecokkud nouzat lufut ciedwif az ificicma imovo hac laberdu afoeb wupe rebravja dojaffuk vehupujeh. Ko ma zetefado cekev veb ufacu duksu duhob ruvokezu lulnej guciseg ero ori ocavu dugvuwje zimjaowa.",
+    "bio": "Rokini tuoru gol ha zokjaneh otoksi nir hosutif zullu neg dot sutova edfij irudopso. Apujesvap ti edefadon go wen zo bi newvef zoz izine jenur vucin ti no. Onvasci co putcavah korjanoh uco wesemot zuttoke umemi guwiw hohapu lueti dilawolo ize. Gizoko babaece dandeh we dasouj ge pokajwil re ifofijac kezvog nomunuowo uduguape cij. Keg gifistof but irriki ligopfer wiek boztec wu wim gitoto riudleh tucda uc. Joneat noojower felob azuni veb farkod duhif pipso re rerih datempug el evnah ubawi fizro rob maovo gaz."
+  },
+  "apiKey": "c1a5fe5bc785b93f6860b21d9448dd62f6b0a7d1c8f0e6e6d100a973f5ddf640",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
