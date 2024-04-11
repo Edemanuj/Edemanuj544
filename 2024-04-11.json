@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Hardy",
+  "age": 26,
+  "address": {
+    "street": "Sojbu Plaza",
+    "city": "Omogujes",
+    "state": "PA",
+    "zip": "55314"
+  },
+  "contact": {
+    "phone": "(626) 667-7623",
+    "servicePhone": "800327772"
+  },
+  "birthday": "1975-10-04T05:31:19.939Z",
+  "ip": "62.82.62.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Gucad navude satpes caja lizdujeh otuvu natji seic isula sutci oju pehtughu nilzowbok. Wi use wifov vodjuwuv ir boweafi sij livwi ro zaifuneh fizil zopbojjom ep okori. Gowmoh karabej ufe gatiki vueco iwier fijuz setcek zulwev suho rifuiga weji ejzovo logejruk muhdu piegvak me.",
+    "bio": "Agnuli kufaleb mufralgid zi ce luviwo lupuh ejujojo lo kekkuh gezkamnoz mobviv ragpit je suit ekedahi besdu papelom. Pinadoj fafvip azoda jas vop lateoka vumadhu ho tin zehemeni ud un fezenfan bufafig vu odico runo. Or ca huv sagelza giod zewcul jo unpo be wibtic wik zapcofvoc abiifafak fuhilu cijlatzi no. Kebicbat bi ikagasil awzusat ha tofe log ugsifit dobka upbiz sulmewroj kure vuzib sa zuwavare. Ojezes cesamed vaw vijsebpom cezes abipnij hencaj lugunra zu su ujete iz wovba. Te tukju jek zurji pecfetip akelgac ap tu wehad ocutaf demsemace satmosar famni apefi ip. Figeba zace se wubdiwek looli vit no coszago ide litjez amtofe ziroc."
+  },
+  "apiKey": "c6deeb1bcd94e8f258073052f6967760817db8c357061b236ad5bc0399669acb",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
