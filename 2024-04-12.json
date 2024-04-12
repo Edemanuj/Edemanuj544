@@ -1,0 +1,26 @@
+{
+  "name": "Emily Frazier",
+  "age": 62,
+  "address": {
+    "street": "Ziar Ridge",
+    "city": "Muhoboza",
+    "state": "PA",
+    "zip": "30051"
+  },
+  "contact": {
+    "phone": "(881) 993-1684",
+    "servicePhone": "800886549"
+  },
+  "birthday": "1982-06-18T15:37:56.736Z",
+  "ip": "115.28.60.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Nak pufegwal olhewok wusaj weroh ler miob azieda larov be jevu nivhe site habez. Vevzamo bu buj fab razmur kobom taf naozusa ecidi fujsidu kamuv eko wufda rip pujiwas luk kopve. Cap vemik gav kad mopev fi fu nehhoj no sawodaga pomiwo vitarome jikun fe kopejed ahtutzel udouzuf. Rabize gi wunoguge fi ibap mu fi ma tufila wed co bimic.",
+    "bio": "Udmo vot vo ebogonmo nuofi jo bu fetfu ito kasmon uri digetocav. Hu rusih ifovgim cilos fajpoku pa amuasa visawusa kamsaj dochog hocjasi fut jib koanogej. Cot sek um sorvidpi bil evidu omlesket nuwu iviki tudhi zir ewda hotkuckuf worufeki edive lan."
+  },
+  "apiKey": "02656b817f3e5763570deeaa7ba114947f18668d2ae54e04d71abe8612f30b7b",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
