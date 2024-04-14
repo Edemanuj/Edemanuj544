@@ -1,0 +1,26 @@
+{
+  "name": "Madge Gomez",
+  "age": 26,
+  "address": {
+    "street": "Else Loop",
+    "city": "Zuswuhot",
+    "state": "HI",
+    "zip": "99695"
+  },
+  "contact": {
+    "phone": "(739) 929-5076",
+    "servicePhone": "800218918"
+  },
+  "birthday": "2000-03-12T06:47:39.924Z",
+  "ip": "46.210.199.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Pugmo acpume ba wiuc roguze vi pan hufjidtoz ujku uvveh veopguw bo gecfec tu. Vorar nuk bureto idezovuju ge rutwolbuv awekovcij owu gev wirhow zanaj morwofuh irga padke puwgu za. Lu cumo di zemkul raurilas vur vepo ifi vargupcob dasi ref fegow isozoad mifug lawa.",
+    "bio": "Refi uhek ru tunibako enowasafu wutan nuzhag anbacema wure talatroc awure tavwuwkig wad fus degapne evonochuv zugpehpa pan. Vu wal bikaklac hapam modo ki tu zes sip wizoci pordah diku. Musike ubno wijez um vej legwib ca iwe opobeg dutjowar fa uzu iza."
+  },
+  "apiKey": "6dc4f06cfa147bbfb016313596c279ea05a914656d7b99196ae4cd896cfa2c04",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
